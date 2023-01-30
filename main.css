@@ -80,3 +80,8 @@ button {
 .about__info {
   max-width: 550px;
 }
+
+.about__sun-image {
+  display: flex;
+  margin-bottom: -100px;
+}
